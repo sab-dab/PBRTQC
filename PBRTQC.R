@@ -1,4 +1,4 @@
-setwd(setwd("C:/Users/sabir/OneDrive/Documents/Error detection by ML/PBRTQC"))
+
 # ============================================================
 # STEP 1: Simulate baseline clinical chemistry dataset
 # ============================================================
