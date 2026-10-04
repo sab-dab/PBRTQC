@@ -64,6 +64,8 @@ Major R packages used include:
 
 The script creates a `revision_results` directory containing analysis outputs and manuscript figures.
 
+Precomputed outputs from the revised analysis are provided in the `revision_results2` directory. When `PBRTQC_revision_analysis.R` is executed, the script generates outputs locally in the `revision_results` directory.
+
 ## Important note
 
 The disturbances evaluated in this study are computationally simulated. The NHANES component uses real participant chemistry measurements as baseline data, but the analytical and pre-analytical disturbances are computationally imposed.
