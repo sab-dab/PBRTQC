@@ -1,0 +1,4 @@
+Model,Threshold_source,Threshold
+Logistic Regression,5-fold out-of-fold predictions from training data,0.15014461501548398
+Random Forest,5-fold out-of-fold predictions from training data,0.12106126903102404
+XGBoost,5-fold out-of-fold predictions from training data,0.10571086406707764

@@ -1,0 +1,6 @@
+scenario,error,n
+normal,0,9500
+shift,1,125
+drift,1,125
+hemolysis,1,125
+delay,1,125
